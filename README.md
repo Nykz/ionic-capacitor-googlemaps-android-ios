@@ -1,2 +1,8 @@
 # ionic-capacitor-googlemaps-android-ios
- Ionic capacitor googlemaps plugin - Android & iOS
+ Ionic 6 Capacitor Google Maps 🔥 (New Capacitor Official Plugin) - Android & iOS
+ 
+ Watch the Full Video on YouTube at 
+
+<img src="https://github.com/Nykz/ionic-capacitor-googlemaps-android-ios/blob/main/Capacitor%20Pluguin%20Thimbnail2.png" width="800" height="400" />
+ 
+ 
