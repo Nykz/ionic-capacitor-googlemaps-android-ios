@@ -1,0 +1,11 @@
+<ion-content [fullscreen]="true">
+    <div class="maps">
+        <capacitor-google-maps #map></capacitor-google-maps>
+    </div>
+</ion-content>
+
+<ion-footer>
+    <ion-toolbar>
+        <ion-button expand="block" (click)="locate()">Locate Me</ion-button>
+    </ion-toolbar>
+</ion-footer>
